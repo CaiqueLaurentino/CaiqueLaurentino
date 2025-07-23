@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Caique.
+# Caique.
 
 ### Desenvolvedor Full Stack | Node.js | AdonisJS | Angular | React | TypeScript | JavaScript | MySQL | Docker
 
