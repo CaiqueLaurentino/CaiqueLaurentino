@@ -27,15 +27,6 @@ Tenho 23 anos e sou formado em Sistemas de Informação. Após um ano de experi�
   - Webpack
   - API RESTful
 
-## Atualmente estou aprendendo:
-- Kubernetes
-- Java
-- Azure
-
-## Ferramentas que utilizo no dia a dia
-- **Editor:** Visual Studio Code
-- **Versionamento:** Git & GitHub
-- **Gerenciamento de Pacotes:** Yarn, NPM
 
 ## Contato
 - **LinkedIn:** https://www.linkedin.com/in/caique-laurentino-480a3b207/
