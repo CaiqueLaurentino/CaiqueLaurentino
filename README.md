@@ -2,7 +2,7 @@
 
 ### Desenvolvedor Full Stack | Node.js | AdonisJS | Angular | React | TypeScript | JavaScript | MySQL | Docker
 
-Tenho 23 anos e sou formado em Sistemas de Informação. Após um ano de experiência como estagiário, atualmente atuo como desenvolvedor Full Stack.
+Tenho 24 anos e sou formado em Sistemas de Informação. Após um ano de experiência como estagiário, atualmente atuo como desenvolvedor Full Stack.
 
 ## Minhas Tecnologias
 
